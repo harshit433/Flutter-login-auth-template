@@ -1,16 +1,34 @@
-# first_app
+# Flutter Login and Sign up system
+It is a flutter project with login and sign up functionality based on Firebase Authentication. It is a completely ready-to-use template with frontend and backend.
 
-A new Flutter project.
+### This project provides various services -
+1) Register/Signup using Email/password, Phone and Google authentication.
+2) Login using Email/password, Phone and Google authentication.
+3) Reseting the password.
 
-## Getting Started
+### To use this project in your application, follow the steps below:-
+1) Download and add the files to your existing flutter project.
+2) Update the pubspec.yaml file to fetch the required dependencies.
+3) Connect your project to your Firebase account.
+4) Done! You have successfully integrated login and singup services to your project.
+## Screenshots
+### Register Activity
+<img src="https://user-images.githubusercontent.com/67017828/227967908-b2c57d39-65be-4c0d-898c-79685609e61b.jpg" width="200" >
 
-This project is a starting point for a Flutter application.
+### Login Activity
 
-A few resources to get you started if this is your first Flutter project:
+<p float='left'>
+<img src="https://user-images.githubusercontent.com/67017828/227965670-9be1e2ff-82b9-408c-aa91-403d8b414859.jpg" width="200" >
+<img src="https://user-images.githubusercontent.com/67017828/227961727-337bba51-1154-44b1-a766-39c1d596d675.jpg" width="200" >
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Reset password Activity
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/67017828/227969005-2a308c56-e229-4aca-9ce9-b9e81af86b81.jpg" width="200" >
+
+### Phone auth Activity
+
+<img src="https://user-images.githubusercontent.com/67017828/227969472-4904a2f5-a471-41d6-9f08-3910de249ad3.jpg" width="200" >
+
+
+
